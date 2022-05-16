@@ -5,6 +5,8 @@ using UnityEngine;
 public class EnemyMovement : MonoBehaviour
 {
     // Start is called before the first frame update
+    float test = .1f;
+
     void Start()
     {
         
